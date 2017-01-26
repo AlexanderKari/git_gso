@@ -1,0 +1,2 @@
+Hvað eru gögn
+Gögn eru skrár eða myndir eða bara hvað sem er sem er geymt eitthversstaðar t.d. á harðadisk, möppum, geisladiskum og líka á serverum. Gögn eru líka upplýsingar t.d. um fólk, hluti eða til að geyma fyrir ýmis verkefni, texti sem þú skrifar á blað eða glósur og o.s.fl. Rafræn gögn eru á netinu eða eitthvað sem þú getur ekki haldið um en stafræn eru á harðadiskum, geisladiskum eða á blaði.
