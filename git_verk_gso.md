@@ -5,4 +5,5 @@ Gögn eru skrár eða myndir eða bara hvað sem er sem er geymt eitthversstaða
 
 Gagnasafn er safn upplýsinga sem er geymt í tölvu á skipulagðan hátt til þess að forrit geti svarað spurningum um gögnin. Hugbúnaðurinn sem heldur utanum gagnasafnið er kallaður gagnasafnskerfi.Gagnasafnskerfi er átt við bæði hugbúnaðinn og gögnin.
 Færslur eru línur, dálkar eða svið. Til dæmis, í töflu sem sýnir fyrirtæki, hver röð myndi tákna eitt fyrirtæki. Dálkar eða gildi gætu sýnt nafn fyrirtækis, götuheiti fyrirtækis, hvort sem fyrirtækið er opinberlega haldið. Í töflu sem sýnir tengsl starfsmanna við deildarstjóra, hver röð myndu tengja einn starfsmann með einni deild.
-Skrár eru oft hugsaðar sem möppur til að geyma gögn í. Í tölvum eru skrár sem þú notar til að raða hlutum í röð og geyma aðrar möppur í eða skrár. Skrár geta líka verið gögn eins og textaskjal eða mynd. 
+Skrár eru oft hugsaðar sem möppur til að geyma gögn í. Í tölvum eru skrár sem þú notar til að raða hlutum í röð og geyma aðrar möppur í eða skrár. Skrár geta líka verið gögn eins og textaskjal eða mynd.
+Skráarsnið er uppbygging hvernig upplýsingar eru skráðar í tölvu. Skráarsnið eru gerðar til að geyma ákveðnar skrár af upplýsingum eins og JPEG eða TIFF fyrir mynd, PDF fyrir skjöl eða .exe fyrir executable eða framkvæma forrit. 
